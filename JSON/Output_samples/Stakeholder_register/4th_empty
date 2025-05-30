@@ -1,0 +1,31 @@
+{
+  "Stakeholders": [
+    {
+      "id": "<MISSING_id>",
+      "name": "<MISSING_name>",
+      "role": "<MISSING_role>",
+      "contact": "<MISSING_contact>",
+      "influence": "<MISSING_influence>",
+      "interest": "<MISSING_interest>",
+      "type": ""
+    },
+    {
+      "id": "<MISSING_id>",
+      "name": "<MISSING_name>",
+      "role": "<MISSING_role>",
+      "contact": "<MISSING_contact>",
+      "influence": "<MISSING_influence>",
+      "interest": "<MISSING_interest>",
+      "type": ""
+    },
+    {
+      "id": "<MISSING_id>",
+      "name": "<MISSING_name>",
+      "role": "<MISSING_role>",
+      "contact": "<MISSING_contact>",
+      "influence": "<MISSING_influence>",
+      "interest": "<MISSING_interest>",
+      "type": ""
+    }
+  ]
+}

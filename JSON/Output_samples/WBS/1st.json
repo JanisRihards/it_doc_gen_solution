@@ -1,0 +1,148 @@
+{
+  "item": [
+    {
+      "id": "WBS-1.1",
+      "name": "Project Charter for Phase 1: Define/Discovery",
+      "level": 1,
+      "description": "<MISSING_details> [Review]",
+      "responsibilities": "<MISSING_responsibilities>",
+      "cost": "<MISSING_cost>",
+      "duration": "<MISSING_duration>"
+    },
+    {
+      "id": "WBS-1.2",
+      "name": "High-Level Business Requirements Document",
+      "level": 1,
+      "description": "<MISSING_details> [Review]",
+      "responsibilities": "<MISSING_responsibilities>",
+      "cost": "<MISSING_cost>",
+      "duration": "<MISSING_duration>"
+    },
+    {
+      "id": "WBS-2.1",
+      "name": "Identify Vendors and Issue RFIs",
+      "level": 2,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-2.1.1",
+      "name": "Initial Vendor Research and RFI Development",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-2.2",
+      "name": "Evaluate Vendor Responses, Product Demonstrations, and Reference Calls",
+      "level": 2,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-2.2.1",
+      "name": "Review of RFI Responses",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-2.2.2",
+      "name": "Product Demonstration Evaluation",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-2.2.3",
+      "name": "Reference Call Analysis",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-3.1",
+      "name": "Short List Development of Final Vendors",
+      "level": 2,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-3.1.1",
+      "name": "Vendor Shortlisting and Initial Evaluation",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-3.2",
+      "name": "Deeper Dive Evaluation of Final Vendors",
+      "level": 2,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-3.2.1",
+      "name": "Detailed Review of Final Vendor Proposals",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-4.1",
+      "name": "Analysis of Documented Business Processes and Results from Interviews",
+      "level": 2,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-4.1.1",
+      "name": "Identification and Sequencing of Work",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-4.1.2",
+      "name": "Stakeholder Communications Management",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    },
+    {
+      "id": "WBS-4.1.3",
+      "name": "Schedule Management and Cost Control",
+      "level": 3,
+      "description": "",
+      "responsibilities": "",
+      "cost": "",
+      "duration": ""
+    }
+  ]
+}

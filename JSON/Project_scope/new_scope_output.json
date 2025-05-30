@@ -1,0 +1,41 @@
+{
+  "ProjectOverview": {
+    "ProjectName": "",
+    "Objectives": [],
+    "SummaryDescription": ""
+  },
+  "ProductScopeDescription": "",
+  "Deliverables": [
+    {
+      "id": "",
+      "description": ""
+    }
+  ],
+  "ScopeInclusions": [
+    ""
+  ],
+  "ScopeExclusions": [
+    ""
+  ],
+  "AcceptanceCriteria": [
+    {
+      "deliverableId": "",
+      "criteria": ""
+    }
+  ],
+  "Assumptions": [
+    {
+      "id": "",
+      "description": ""
+    }
+  ],
+  "Constraints": [
+    {
+      "id": "",
+      "description": ""
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,49 @@
+{
+  "Stakeholders": [
+    {
+      "id": "S1",
+      "name": "Sponsors Group",
+      "role": "Financial Backers",
+      "contact": "<MISSING_contact>",
+      "influence": "High",
+      "interest": "Project Success",
+      "type": "External"
+    },
+    {
+      "id": "S2",
+      "name": "Committee Members Team",
+      "role": "Decision Makers",
+      "contact": "<MISSING_contact>",
+      "influence": "Medium",
+      "interest": "Project Progress",
+      "type": "Internal"
+    },
+    {
+      "id": "S3",
+      "name": "Users Group",
+      "role": "End-Users",
+      "contact": "<MISSING_contact>",
+      "influence": "Low",
+      "interest": "Product Requirements",
+      "type": "External"
+    },
+    {
+      "id": "S4",
+      "name": "Customers Team",
+      "role": "End-Users",
+      "contact": "<MISSING_contact>",
+      "influence": "Medium",
+      "interest": "Project Quality",
+      "type": "Internal"
+    },
+    {
+      "id": "S5",
+      "name": "Vendor Selection Committee",
+      "role": "Decision Makers",
+      "contact": "<MISSING_contact>",
+      "influence": "High",
+      "interest": "Technology/Vendor Selection",
+      "type": "External"
+    }
+  ]
+}

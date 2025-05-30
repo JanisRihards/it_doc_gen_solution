@@ -1,0 +1,19 @@
+{
+  "instruction_id": "risk_register",
+  "document_type": "Risk Register",
+  "description": "From the Project Charter, identify all potential risks.",
+  "input_type": "project_charter",
+  "llm_prompt_instructions": {
+    "goal": "Create a JSON risk register listing every risk stated or implied in the charter, with key attributes for analysis and tracking.",
+    "steps": [
+      "1. Identify Risks: Search the charter for every statement that describes a potential event, condition, or uncertainty that could negatively affect the project. Insert each risk into "Description" field for each JSON item in Risks array",
+      "2. Assign IDs: For each risk description, assign a unique identifier string (R1, R2..) etc. Add ids to previously created risks fields",
+      "3. Determine Category: For each risk object from previously create results 2 set category (Schedule, Budget, Technical, Resource\, External) based on context fragment text provided. For each found category, insert it into category field category for each object. If category not found then set `<MISSING_category>`.",
+      "4. Estimate Likelihood: For each risk object, assign a likelihood (High, Medium, Low) based on the language in the charter fragment. Set likelihood to likelihood field. If not found set `<MISSING_likelihood>`.",
+      "5. Estimate Impact: For each risk object, set a qualitative impact (High, Medium, Low) based on the context fragment used language.  Set vlaue to  impact field. If not found then set `<MISSING_impact>`.",
+      "6. Suggest Mitigation**: For each risk, provide a brief placeholder mitigation strategy as a string. If the charter suggests no action, use `<MISSING_mitigation>`.",
+      "7. Return Register**: Output a single JSON object that consists of multiple Risks formated into array Each object must have exactly these fields: `id`, `description`, `category`, `likelihood`, `impact`, `mitigation."
+    ],
+    "format": "```json\n<your JSON here>\n```"
+  }
+}

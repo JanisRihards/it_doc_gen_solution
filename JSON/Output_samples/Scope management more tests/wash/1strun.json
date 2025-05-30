@@ -1,0 +1,42 @@
+
+  "ProjectOverview": {
+    "ProjectName": "One Washington",
+    "Objectives": [
+      "the Objectives section of this document"
+    ],
+    "SummaryDescription": ""
+  },
+  "ProductScopeDescription": "A state-wide effort to develop business case components and materials to brief, including assessment and planning phase budget package submittal, transition to the next phase, and potential system procurement.",
+  "Deliverables": [
+    {
+      "id": "DELIVERABLE_001",
+      "description": "Business case development"
+    },
+    {
+      "id": "DELIVERABLE_002",
+      "description": "Assessment and planning phase budget package submittal"
+    }
+  ],
+  "ScopeInclusions": [
+    "Business case development",
+    "Assessment and planning phase budget package submittal"
+  ],
+  "ScopeExclusions": [],
+  "AcceptanceCriteria": [
+    {
+      "deliverableId": "DELIVERABLE_001",
+      "criteria": ""
+    },
+    {
+      "deliverableId": "DELIVERABLE_002",
+      "criteria": ""
+    }
+  ],
+  "Assumptions": [
+    {
+      "id": "<MISSING_Assumptions>",
+      "description": "<MISSING_Assumptions>"
+    }
+  ],
+  "Constraints": []
+}

@@ -1,0 +1,50 @@
+{
+  "BusinessRequirements": [
+    {
+      "R1": "Secure resource commitments from a representative group of stakeholders across the University",
+      "R2": "Establish an authorization process for key project deliverables such as Project Charter and Project Plan"
+    },
+    {
+      "BR-4": "Facilitate access to critical resources, including Budget, Project Team, Subject Matter Experts (SME), and Cross-Functional Resources, in a cost-effective manner"
+    }
+  ],
+  "StakeholderRequirements": [
+    {
+      "SR1": "Ensure that University-wide stakeholders are informed of project progress and milestones",
+      "SR2": "Provide regular updates to project sponsors with periodic updates as necessary to other interested groups (Sponsored Systems Strategy, SALC, SPOC, etc.)."
+    },
+    {
+      "SR-4": "Provide training for stakeholders and users on the new Effort Reporting system."
+    }
+  ],
+  "FunctionalRequirements": [
+    {
+      "FR1": "Develop an Effort Reporting system that meets the University's effort reporting processes requirements",
+      "FR2": "Implement a cost-effective implementation of enterprise-wide effort reporting system with minimal data migration required for transition from current state to future state."
+    },
+    {
+      "FR-4": "Track sales leads and implement a feature to monitor sales performance"
+    }
+  ],
+  "NonFunctionalRequirements": [
+    {
+      "NFR1": "Ensure compliance with relevant regulations and standards throughout the project lifecycle",
+      "NFR2": "Adhere to established project standards and guidelines to ensure consistency and quality.",
+      "NFR-3": "Implement training and change control processes for stakeholders"
+    }
+  ],
+  "TransitionRequirements": [
+    {
+      "TR1": "Provide training for stakeholders and users on the new Effort Reporting system",
+      "TR2": "Document and maintain project change control processes with added emphasis on stakeholder expectations and resource commitments.",
+      "TR-4": "Ensure that University-wide stakeholders are informed of project progress and milestones"
+    }
+  ],
+  "ProjectRequirements": [
+    {
+      "PR1": "Establish a clear project scope, timeline, and budget with defined milestones and deliverables",
+      "PR2": "Convene an Executive Committee comprised of senior leadership for decision-making and oversight.",
+      "PR-3": "Convene a Steering Committee comprised of a representative group from across the University"
+    }
+  ]
+}
