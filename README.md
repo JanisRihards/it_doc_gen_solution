@@ -28,9 +28,11 @@ This prototype runs entirely on  local machine. All embeddings and LLM inference
 ## Local Installation
 
 1. Clone this repository
+
    git clone https://github.com/JanisRihards/it_doc_gen_solution.git
 
    cd it_doc_gen_solution
 3. Setup
+ 
  Run in local terminal pip install -r python_libraries_install.txt
    
