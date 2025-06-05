@@ -1,0 +1,18 @@
+{
+  "instruction_id": "requirements_doc",
+  "document_type": "Requirements Documentation",
+  "description": "From input sample extract and organize all requirements into six distinct categories.",
+  "input_type": "project_charter",
+  "llm_prompt_instructions": {
+    "goal": "Produce a complete JSON requirements document with six categories.",
+    "steps": [
+      "1. Business Requirements: Identify every statement of high-level goals or objectives the organization expects this project to fulfill. Insert JSON array of strings under the `BusinessRequirements`. Do not include stakeholder, functional, nonfunctional, transition, or project execution requirements.",
+      "2. Stakeholder Requirements: Identify every need, expectation, or concern expressed by stakeholders (e.g. sponsors, users, customers) in the charter. Insert JSON array of strings under the `StakeholderRequirements`. Do not include any other category’s items.",
+      "3. Functional Requirements: Identify every feature, capability, or function the solution must provide, as implied or stated in the charter. Insert JSON array of strings under the `FunctionalRequirements`. Exclude high-level goals, quality criteria, transition needs, and project constraints.",
+      "4. NonFunctional Requirements: Identify every quality or performance criterion (e.g. speed, security, usability) mentioned or implied. Insert JSON array of strings under the `NonFunctionalRequirements`. Do not include any functions, stakeholders, transition, or project constraints.",
+      "5. Transition Requirements: Identify every requirement needed to move from current to future state (e.g. data migration, training, deployment). Insert JSON array of strings under the`TransitionRequirements`. Do not include any other categories.",
+      "6. Project Requirements: Identify every execution constraint or project management requirement (e.g. milestones, budget limits, standards, approvals) in the charter. Insert JSON array of strings under the `ProjectRequirements`. Do not overlap with any other category.",
+      "7. Placeholders for Missing Categories: If any category has no items in the charter, output an array containing the single string `<MISSING_requirement>`."
+    ]
+  }
+}

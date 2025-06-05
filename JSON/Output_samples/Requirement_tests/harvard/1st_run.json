@@ -1,0 +1,32 @@
+{
+  "BusinessRequirements": [
+    "Selection of local contacts and SME representatives that can provide needed project inputs",
+    "Availability to participate such that the timeframe is extended, increasing the duration of the engagement"
+  ],
+  "StakeholderRequirements": [
+    "Desired deadlines are met",
+    "Solicitation and approval of stakeholder requirements to support desired project outputs",
+    "Authorization of key project deliverables such as: Project Charter, Project Plan and technology/vendor selection."
+  ],
+  "FunctionalRequirements": [
+    "<MISSING_requirement>"
+  ],
+  "NonFunctionalRequirements": [
+    "Security",
+    "Usability",
+    "Performance",
+    "Scalability"
+  ],
+  "TransitionRequirements": [
+    "Data migration from current system to the new reporting system",
+    "Training of local contacts and SME representatives on the new system",
+    "Deployment of the new reporting system",
+    "Testing and validation of the new system with reference data",
+    "Documentation of project results, including reports and analytics"
+  ],
+  "ProjectRequirements": [
+    "<MISSING_requirement>",
+    "Evaluation of vendor RFI responses, product demonstrations, and reference calls",
+    "Certification of committed effort"
+  ]
+}

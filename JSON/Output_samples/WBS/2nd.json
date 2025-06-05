@@ -1,0 +1,64 @@
+{
+  "item": [
+    {
+      "id": "WBS-01",
+      "name": "<MISSING_convene_a_Steering_Committee_comprised_of_a_representative_group_from_across_the_University>",
+      "level": 1
+    },
+    {
+      "id": "WBS-02-1",
+      "name": "<MISSING_Initiate_vendor_list_and_issue_RFI_to_selected_vendors_including_internal_build_option>",
+      "level": 2
+    },
+    {
+      "id": "WBS-02-2",
+      "name": "<MISSING_Review_vendor_list_and_issue_RFI>",
+      "level": 2
+    },
+    {
+      "id": "WBS-03-1",
+      "name": "<MISSING_Detailed_business_requirements_for_initiation_phase>",
+      "level": 3
+    },
+    {
+      "id": "WBS-03-2",
+      "name": "<MISSING_Detailed_business_requirements_for_selection_and_internal_build>",
+      "level": 3
+    },
+    {
+      "id": "WBS-04",
+      "name": "<MISSING_Develop_short_list_of_final_vendors_and_conduct_deeper_dive_evaluation>",
+      "level": 4
+    },
+    {
+      "id": "WBS-05-1",
+      "name": "<MISSING_Evaluate_vendor_RFI_responses_productDemonstrations_and_reference_calls>",
+      "level": 5
+    },
+    {
+      "id": "WBS-05-2",
+      "name": "<MISSING_Conduct_Deeper_Dive_Evaluation_of_Final_Vendors>",
+      "level": 5
+    },
+    {
+      "id": "WBS-06-1",
+      "name": "<MISSING_Develop_request_for_information_(RFI)_based_on_Harvard’s_requirements_for_a_University-wide_effort_reporting_system>",
+      "level": 6
+    },
+    {
+      "id": "WBS-06-2",
+      "name": "<MISSING_Evaluate_vendor_RFI_responses_productDemonstrations_and_reference_calls>",
+      "level": 5
+    },
+    {
+      "id": "WBS-07",
+      "name": "<MISSING_Project_Issues_list_and_HERSCI_Issues_list>",
+      "level": 7
+    },
+    {
+      "id": "WBS-08-1",
+      "name": "<MISSING_Evaluate_vendor_RFI_responses_productDemonstrations_and_reference_calls>",
+      "level": 8
+    }
+  ]
+}

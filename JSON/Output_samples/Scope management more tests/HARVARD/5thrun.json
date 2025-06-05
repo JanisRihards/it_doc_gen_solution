@@ -1,0 +1,46 @@
+{
+  "ProjectOverview": {
+    "ProjectName": "",
+    "Objectives": [],
+    "SummaryDescription": ""
+  },
+  "ProductScopeDescription": "This project aims to improve the University's IT infrastructure and provide necessary inputs for successful project execution.",
+  "Deliverables": [
+    {
+      "id": "<MISSING_deliverableId>",
+      "description": "Convene a Steering Committee comprised of a representative group from across the University "
+    }
+  ],
+  "ScopeInclusions": [
+    "Convene a Steering Committee comprised of a representative group from across the University ",
+    "Provide needed project inputs and ensure desired deadlines are met through prioritization of resources on project-related activities.",
+    "<MISSING_ScopeInclusion_3>",
+    "Develop short list of final vendors",
+    "Conduct deeper dive evaluation of final vendors"
+  ],
+  "ScopeExclusions": [
+    "Certification of committed effort"
+  ],
+  "AcceptanceCriteria": [
+    {
+      "deliverableId": "<MISSING_deliverableId>",
+      "criteria": "<MISSING_AcceptanceCriteria>"
+    }
+  ],
+  "Assumptions": [
+    {
+      "id": "<ASSUMPTION_1>",
+      "description": "All schools and associated representatives are targeted for business process documentation interviews"
+    },
+    {
+      "id": "<ASSUMPTION_2>",
+      "description": "Authorization of key project deliverables such as: Project Charter, Project Plan and technology/vendor selection is obtained"
+    }
+  ],
+  "Constraints": [
+    {
+      "id": "<MISSING_ConstraintId>",
+      "description": "<MISSING_ConstraintDescription>"
+    }
+  ]
+}

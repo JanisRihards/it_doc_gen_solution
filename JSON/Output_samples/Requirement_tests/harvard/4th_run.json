@@ -1,0 +1,31 @@
+{
+  "BusinessRequirements": [
+    "groundwork for the successful implementation of the chosen system.",
+    "establishing a clear project scope",
+    "identifying key performance indicators (KPIs) for the project"
+  ],
+  "StakeholderRequirements": [
+    "Sponsor needs: Ensure project is completed within the desired timeframe and meets all stakeholder expectations.",
+    "User feedback: Incorporate user input into the system to ensure seamless user experience.",
+    "Customer requirements: Develop a system that meets customer needs for data security and integrity."
+  ],
+  "FunctionalRequirements": [
+    "Feature 1",
+    "Feature 2",
+    "Reporting System with Real-time Data Updates"
+  ],
+  "NonFunctionalRequirements": [],
+  "TransitionRequirements": [
+    "Data migration from current system to new system",
+    "Training for end-users and administrators on the new system",
+    "Deployment of the new system in production environment",
+    "Testing and quality assurance to ensure system meets requirements"
+  ],
+  "ProjectRequirements": [
+    "Authorization of key project deliverables such as: Project Charter, Project Plan and technology/vendor selection.",
+    "Solicitation and approval of stakeholder requirements to support desired project outputs.",
+    "Provide needed project inputs.",
+    "Prioritization for these resources on project related activities to ensure desired deadlines are met.",
+    "Policy issues that remain unresolved may delay finalization of requirements."
+  ]
+}
