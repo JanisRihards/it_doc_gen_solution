@@ -1,0 +1,6 @@
+streamlit
+chromadb
+ollama
+pymupdf
+langchain
+langchain-text-splitters
